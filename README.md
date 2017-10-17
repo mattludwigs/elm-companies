@@ -74,7 +74,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [SMRxT](https://nomiadherence.com/)
   ([Blog](https://engineering.smrxt.com/)) - SMRxT’s medication adherence system, Nomi, records patient medication behavior as it happens. By using real-time insights, the system reinforces positive behavior and intervenes to help patients take their medication and continue their treatment.
 
-### Home Automation
+#### Home Automation
 
 * [Smartrent](https://smartrent.com/) - A home autoamtion plaform for property managers.
 
