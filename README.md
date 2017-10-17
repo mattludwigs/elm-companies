@@ -76,7 +76,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### Home Automation
 
-* [Smartrent](https://smartrent.com/) - A home autoamtion plaform for property managers.
+* [Smartrent](https://smartrent.com/) - A home automation plaform for property managers.
 
 #### Human Resources
 
